@@ -4,10 +4,10 @@ export interface Post {
   title: string;
   author: {
     name: string;
-    mainImage: string;
+    image: string;
   };
   description: string;
-  image: string;
+  mainImage: string;
   slug: {
     current: string;
   };
