@@ -10,7 +10,7 @@ const Header = () => {
             src="https://miro.medium.com/max/8978/1*s986xIGqhfsN8U--09_AdA.png"
             alt=""
           /> */}
-          <span className="font-serif text-xl tracking-tighter w-44 object-contain cursor-pointer">
+          <span className="font-serif text-xl tracking-tighter w-44 object-contain cursor-pointer pl-3">
             PETER'S&nbsp;&nbsp;BLOG
           </span>
         </Link>
